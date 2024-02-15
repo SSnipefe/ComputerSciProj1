@@ -1,3 +1,39 @@
 html {
-  background-color: hex(#dea404);
+    background-color: bisque;
+}
+
+titler {
+    color: aqua;
+    font-family:'Franklin Gothic Medium';
+    font-size:40px;
+    text-align: center;
+    border:17px solid green;
+    border-radius: 20px;
+    /*USED: '<titler><p>Teahouse</p></titler>'*/
+}    
+
+.nav{
+    overflow: hidden;
+    border: 17px solid #90d627;
+    border-radius: 20px;
+    background-color: #90d627;
+}
+
+.nav button {
+    background-color: inherit;
+    float: left;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 88px;
+    font-size: 23px;
+    background-color:greenyellow;
+    border-radius: 10px;
+}
+
+.name {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 20px;
+  width: 30%;
 }
