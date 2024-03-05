@@ -2,16 +2,6 @@ html {
     background-color: bisque;
 }
 
-titler {
-    color: aqua;
-    font-family:'Franklin Gothic Medium';
-    font-size:40px;
-    text-align: center;
-    border:17px solid green;
-    border-radius: 20px;
-    /*USED: '<titler><p>Teahouse</p></titler>'*/
-}    
-
 .nav{
     overflow: hidden;
     border: 17px solid #90d627;
